@@ -1,0 +1,1 @@
+aplicativo de gamer criado na NLW/together seguindo a trilha do React Native.
