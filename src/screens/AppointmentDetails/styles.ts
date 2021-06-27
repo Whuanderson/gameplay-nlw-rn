@@ -35,6 +35,8 @@ export const styles = StyleSheet.create({
     paddingHorizontal: 24,
     paddingVertical: 20,
     marginBottom: getBottomSpace(),
+    color: theme.colors.primary,
+    textAlign: "center",
   },
   emptyContainer: {
     alignItems: 'center',
@@ -42,5 +44,22 @@ export const styles = StyleSheet.create({
   emptyText: {
     fontFamily: theme.fonts.text500,
     color: theme.colors.heading
-  }
+  },
+  errorContainer: {
+    flex: 1,
+    paddingHorizontal: 24,
+    paddingVertical: 20,
+    justifyContent: "space-evenly",
+  },
+  errorTitle: {
+    color: theme.colors.heading,
+    textAlign: "center",
+    fontSize: 22,
+    marginBottom: 20,
+  },
+  errorMessage: {
+    color: theme.colors.heading,
+    textAlign: "center",
+    fontSize: 15,
+  },
 });
