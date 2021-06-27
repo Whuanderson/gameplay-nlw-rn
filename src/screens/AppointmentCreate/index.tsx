@@ -69,7 +69,7 @@ export function AppointmentCreate() {
     if (!future) {
       Alert.alert(
         "Erro",
-        "Informe uma data e hora válida no futuro e dados inválidos!",
+        "Informe uma data e hora válida. dados inválidos!",
         [
           {
             text: "Fechar",

@@ -61,13 +61,16 @@ export function Profile() {
 
       <ModalViewOut visible={openLogoutModa}  >
         <View style={styles.modal} >
-          <Text style={{color: theme.colors.heading, fontFamily: theme.fonts.title700, fontSize: 20}}>Deseja sair do GamePlay?</Text>
+          <View style={{flexDirection: 'row'}}>
+          <Text style={{color: theme.colors.heading, fontFamily: theme.fonts.title700, fontSize: 20}}>Deseja sair do Game</Text>
+          <Text style={{color: theme.colors.primary, fontFamily: theme.fonts.title700, fontSize: 20}}>Play?</Text>
+          </View>
           <View style={styles.buttons}>
             <View style={styles.button1}>
-              <Button title="não" onPress={handleCloseLogoutModa} />
+              <Button title="Não" onPress={handleCloseLogoutModa} />
             </View>
             <View style={styles.button2}>
-              <Button title="sim" onPress={handleSignOut}/>
+              <Button title="Sim" onPress={handleSignOut}/>
             </View>
           </View>
         </View>
