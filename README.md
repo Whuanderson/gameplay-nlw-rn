@@ -62,6 +62,14 @@
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/0kv33XYjvOgvKGKHBaiR07/GamePlay-NLW-Together?node-id=58913%3A83). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
+# 📱  Instalando 
+
+*Clone o projeto e acesse a pasta*
+
+```bash
+$ git clone https://github.com/Whuanderson/gameplay-nlw-rn
+```
+
 # Executando o projeto
 
 Utilize o **yarn** ou o **npm install** para instalar as dependências do projeto.
