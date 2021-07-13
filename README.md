@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GamePlay" height="80" title="Plant Manager" src=".github/Logo.png" />
+  <img alt="GamePlay" height="80" title="GamePlay" src=".github/Logo.png" />
 </h1>
 
 <div align="center">
