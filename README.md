@@ -11,9 +11,9 @@
   </div>
   
    <p align="center" >
-     <img alt="GamePlay" title="GamePlay" src="https://github.com/Whuanderson/gameplay-nlw-rn/blob/main/.github/gif1.gif" width="220" height="400"/>
-    <img alt="GamePlay" title="GamePlay" src="https://github.com/Whuanderson/gameplay-nlw-rn/blob/main/.github/gif2.gif" width="220" height="400" />
-     <img alt="GamePlay" title="GamePlay" src="https://github.com/Whuanderson/gameplay-nlw-rn/blob/main/.github/gif3.gif" width="220" height="400" />
+     <img alt="GamePlay" title="GamePlay" src="https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif1.gif" width="220" height="400"/>
+    <img alt="GamePlay" title="GamePlay" src="https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif2.gif" width="220" height="400" />
+     <img alt="GamePlay" title="GamePlay" src="https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif3.gif" width="220" height="400" />
   </p>
   
 
