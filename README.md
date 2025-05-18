@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GamePlay" height="80" title="GamePlay" src=".github/Logo.png" />
+  <img alt="GamePlay" height="80" title="GamePlay" src="https://github.com/Whuanderson/gameplay-nlw-rn/blob/main/.github/Logo.png" />
 </h1>
 
 <div align="center">
@@ -11,9 +11,9 @@
   </div>
   
    <p align="center" >
-     <img alt="GamePlay" title="GamePlay" src=".github/gif1.gif" width="220" height="400" />
-    <img alt="GamePlay" title="GamePlay" src=".github/gif2.gif" width="220" height="400" />
-     <img alt="GamePlay" title="GamePlay" src=".github/gif3.gif" width="220" height="400" />
+     <img alt="GamePlay" title="GamePlay" src="https://github.com/Whuanderson/gameplay-nlw-rn/blob/main/.github/gif1.gif" width="220" height="400"/>
+    <img alt="GamePlay" title="GamePlay" src="https://github.com/Whuanderson/gameplay-nlw-rn/blob/main/.github/gif2.gif" width="220" height="400" />
+     <img alt="GamePlay" title="GamePlay" src="https://github.com/Whuanderson/gameplay-nlw-rn/blob/main/.github/gif3.gif" width="220" height="400" />
   </p>
   
 
