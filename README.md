@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GamePlay" height="80" title="GamePlay" src="https://github.com/Whuanderson/gameplay-nlw-rn/blob/main/.github/Logo.png" />
+  <img alt="GamePlay" height="80" title="GamePlay" src="https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/Logo.png" /> 
 </h1>
 
 <div align="center">
@@ -10,12 +10,15 @@
     <img alt="License" src="https://img.shields.io/badge/License-MIT-blue">
   </div>
   
-   <p align="center" >
-     <img alt="GamePlay" title="GamePlay" src="https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif1.gif" width="220" height="400"/>
-    <img alt="GamePlay" title="GamePlay" src="https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif2.gif" width="220" height="400" />
-     <img alt="GamePlay" title="GamePlay" src="https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif3.gif" width="220" height="400" />
-  </p>
-  
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif1.gif" width="220" height="400"/></td>
+      <td><img src="https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif2.gif" width="220" height="400"/></td>
+      <td><img src="https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif3.gif" width="220" height="400"/></td>
+    </tr>
+  </table>
+</p>  
 
  <p align="center">
   :rocket: Aplicativo para ajudar a conectar-se e organiza o momento de diversão e jogar com os amigos. Crie grupos para jogar seus games favoritos com seus amigos com esse App  que possui autenticação com Discord. Feito no NLW together da @Rocketseat
