@@ -20,9 +20,17 @@ Projeto desenvolvido durante o **NLW Together** da [Rocketseat](https://rocketse
 
 ## 🎥 Demonstração
 
-| | | |
-|---|---|---|
-| ![gif1](https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif1.gif) | ![gif2](https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif2.gif) | ![gif3](https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif3.gif) |
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif1.gif" alt="Demonstração 1" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif2.gif" alt="Demonstração 2" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Whuanderson/gameplay-nlw-rn/refs/heads/main/.github/gif3.gif" alt="Demonstração 3" />
+</div>
 
 ## 🔧 Funcionalidades
 
